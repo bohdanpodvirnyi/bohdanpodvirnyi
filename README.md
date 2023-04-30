@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**bohdanpodvirnyi/bohdanpodvirnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="200"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/bohdan-podvirnyi">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/bohdanpodvirnyi">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbohdanpodvirnyi&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/>
+  </a>
+</div>
+
+#### 👨‍💻 About Me :
+
+- 🔭 I’m working as a iOS Software Engineer and building cool apps that used by millions!
+
+- 🍎 Exploring Apple software ecosystem.
+
+- 📸 Making every picture count. 
