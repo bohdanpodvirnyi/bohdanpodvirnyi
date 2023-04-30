@@ -16,7 +16,7 @@
 
 #### 👨‍💻 About Me :
 
-- 🔭 I’m working as a iOS Software Engineer and building cool apps that used by millions!
+- 🔭 I’m working as an iOS Software Engineer and building cool apps that are used by millions!
 
 - 🍎 Exploring Apple software ecosystem.
 
