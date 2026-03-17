@@ -10,3 +10,14 @@
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbohdanpodvirnyi&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/>
   </a>
 </div>
+
+---
+
+### Open Source Contributions
+
+- [**openclaw/openclaw**](https://github.com/openclaw/openclaw) — Added bidirectional emoji reactions support for Telegram ([#964](https://github.com/openclaw/openclaw/pull/964))
+- [**steipete/CodexBar**](https://github.com/steipete/CodexBar) — Added GPT-5.3 Codex pricing ([#406](https://github.com/steipete/CodexBar/pull/406))
+
+### My Projects
+
+- [**lvivsvitlo**](https://github.com/bohdanpodvirnyi/lvivsvitlo) — Telegram bot for power outage schedule notifications in Lviv, Ukraine
