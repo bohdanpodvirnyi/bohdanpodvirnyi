@@ -11,6 +11,10 @@
   </a>
 </div>
 
+Building multi-agent systems, hyper-personalized software, and all things AI.
+
+`Python` `Swift` `TypeScript` `LLMs` `Multi-Agent Systems` `iOS`
+
 ---
 
 ### Open Source Contributions (sometimes fixing stuff when I feel like it)
