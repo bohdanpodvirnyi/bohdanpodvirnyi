@@ -13,7 +13,7 @@
 
 ---
 
-### Open Source Contributions
+### Open Source Contributions (sometimes fixing stuff when I feel like it)
 
 - [**openclaw/openclaw**](https://github.com/openclaw/openclaw) — Added bidirectional emoji reactions support for Telegram ([#964](https://github.com/openclaw/openclaw/pull/964))
 - [**steipete/CodexBar**](https://github.com/steipete/CodexBar) — Added GPT-5.3 Codex pricing ([#406](https://github.com/steipete/CodexBar/pull/406))
