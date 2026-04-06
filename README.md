@@ -13,4 +13,4 @@ Building multi-agent systems, hyper-personalized software, and all things AI.
 
 ---
 
-I also contribute to open source when something's broken or missing.
+I also contribute to open source when I feel like it.
